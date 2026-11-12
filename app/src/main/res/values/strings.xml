@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Menus Android</string>
+
+    <!-- Hoja 1: Opciones -->
+    <string name="opc_compartir">Compartir</string>
+    <string name="opc_ajustes">Ajustes</string>
+    <string name="opc_ayuda">Ayuda</string>
+
+    <!-- Hoja 2: Grupos -->
+    <string name="grupo_rojo">Color Rojo</string>
+    <string name="grupo_azul">Color Azul</string>
+    <string name="grupo_verde">Color Verde</string>
+
+    <!-- Hoja 3: Contextual -->
+    <string name="ctx_editar">Editar nota</string>
+    <string name="ctx_archivar">Archivar nota</string>
+    <string name="ctx_eliminar">Eliminar nota</string>
+
+    <!-- Hoja 4: Modo Acción -->
+    <string name="acc_copiar">Copiar contenido</string>
+    <string name="acc_cortar">Cortar contenido</string>
+    <string name="acc_pegar">Pegar contenido</string>
+
+    <!-- Hoja 5: Emergente -->
+    <string name="btn_abrir_menu">Desplegar Opciones</string>
+    <string name="pop_descargar">Descargar archivo</string>
+    <string name="pop_imprimir">Imprimir documento</string>
+    <string name="pop_enviar">Enviar por correo</string>
+
+</resources>
+

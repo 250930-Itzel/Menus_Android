@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pop_descargar"
+        android:title="@string/pop_descargar" />
+    <item
+        android:id="@+id/pop_imprimir"
+        android:title="@string/pop_imprimir" />
+    <item
+        android:id="@+id/pop_enviar"
+        android:title="@string/pop_enviar" />
+</menu>
